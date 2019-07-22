@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>Kabir Singh</title>
+    <release-date>
+    <day>28</day>
+    <month>12</month>
+    <year>2019</year>
+    </release-date>
+    <theatre-name>Inox</theatre-name>
+    <theatre-name>Mangal Adlabs</theatre-name>
+    <city>Pune</city>
+    <city>Indore</city>
+    <city>Mumbai</city>
+  </movie>
+  <movie>
+  <code>102</code>
+  <title>Sholay</title>
+  <theatre-name>PVR</theatre-name>
+  <city>Indore</city>
+  </movie>
+</movies>
